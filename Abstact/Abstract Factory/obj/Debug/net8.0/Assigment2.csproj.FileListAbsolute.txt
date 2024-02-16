@@ -1,0 +1,14 @@
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\bin\Debug\net8.0\Assigment2.exe
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\bin\Debug\net8.0\Assigment2.deps.json
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\bin\Debug\net8.0\Assigment2.runtimeconfig.json
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\bin\Debug\net8.0\Assigment2.dll
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\bin\Debug\net8.0\Assigment2.pdb
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\obj\Debug\net8.0\Assigment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\obj\Debug\net8.0\Assigment2.AssemblyInfoInputs.cache
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\obj\Debug\net8.0\Assigment2.AssemblyInfo.cs
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\obj\Debug\net8.0\Assigment2.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\obj\Debug\net8.0\Assigment2.dll
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\obj\Debug\net8.0\refint\Assigment2.dll
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\obj\Debug\net8.0\Assigment2.pdb
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\obj\Debug\net8.0\Assigment2.genruntimeconfig.cache
+C:\Users\Jon\Desktop\Assignment II - Abstract Factory\obj\Debug\net8.0\ref\Assigment2.dll

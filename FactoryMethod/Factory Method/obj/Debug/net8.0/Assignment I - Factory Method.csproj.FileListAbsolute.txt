@@ -1,0 +1,14 @@
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\bin\Debug\net8.0\Assignment I - Factory Method.exe
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\bin\Debug\net8.0\Assignment I - Factory Method.deps.json
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\bin\Debug\net8.0\Assignment I - Factory Method.runtimeconfig.json
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\bin\Debug\net8.0\Assignment I - Factory Method.dll
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\bin\Debug\net8.0\Assignment I - Factory Method.pdb
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\obj\Debug\net8.0\Assignment I - Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\obj\Debug\net8.0\Assignment I - Factory Method.AssemblyInfoInputs.cache
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\obj\Debug\net8.0\Assignment I - Factory Method.AssemblyInfo.cs
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\obj\Debug\net8.0\Assignment I - Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\obj\Debug\net8.0\Assignment I - Factory Method.dll
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\obj\Debug\net8.0\refint\Assignment I - Factory Method.dll
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\obj\Debug\net8.0\Assignment I - Factory Method.pdb
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\obj\Debug\net8.0\Assignment I - Factory Method.genruntimeconfig.cache
+C:\Users\Jon\RiderProjects\Assignment I - Factory Method\Assignment I - Factory Method\obj\Debug\net8.0\ref\Assignment I - Factory Method.dll
